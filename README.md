@@ -29,7 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/n8n.png" width="40" alt="n8n"/>
   <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/openai-green-icon.png" width="40" alt="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="35" alt="NetBeans"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
 </div>
+
 
 ---
 
