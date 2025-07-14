@@ -11,9 +11,18 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** apasionado por la p
 
 ### 🛠 Tecnologías y herramientas
 
-- Lenguajes: `Python`, `SQL`
-- Frameworks: `Flask`, `Vue.js`
-- Otros: `Git`, `MQTT`, `OpenAI API`
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/JhonLlapapasca/assets/main/icons/n8n-icon.svg" width="30" alt="n8n"/>
+  <img src="https://raw.githubusercontent.com/JhonLlapapasca/assets/main/icons/openai-green-icon.png" width="30" alt="OpenAI"/>
+</div>
 
 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jhon-llapapasca)
 
