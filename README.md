@@ -35,7 +35,7 @@
 
 ### 📫 También puedes encontrarme en
 
-📍 [LinkedIn](https://www.linkedin.com/in/jhon-llapapasca)  
+📍 [LinkedIn](https://www.linkedin.com/in/jhonllapapasca/)  
 
 ---
 
