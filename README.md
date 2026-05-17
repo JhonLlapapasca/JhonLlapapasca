@@ -25,9 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
   
   <!-- ETL & Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg" width="40" alt="IBM DataStage" title="IBM DataStage" style="filter: invert(34%) sepia(90%) saturate(3000%) hue-rotate(190deg);"/> 
-  <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/n8n.png" width="40" alt="n8n" title="n8n"/>
-  <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/openai-green-icon.png" width="40" alt="OpenAI" title="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="45" alt="IBM DataStage" title="IBM DataStage"/> 
+  <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/n8n.png" width="40" alt="n8n" title="n8n Workflows"/>
+  <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/openai-green-icon.png" width="40" alt="OpenAI" title="OpenAI API"/>
   
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" title="Vue.js"/>
