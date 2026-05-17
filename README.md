@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
   
   <!-- ETL & Automation -->
-  <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/ibm_dataStage_.png" width="50" alt="IBM DataStage" title="IBM DataStage"/> 
+  <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/ibm_dataStage_.png" width="70" alt="IBM DataStage" title="IBM DataStage"/> 
   <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/n8n.png" width="40" alt="n8n" title="n8n Workflows"/>
   <img src="https://raw.githubusercontent.com/JhonLlapapasca/JhonLlapapasca/main/iconos/openai-green-icon.png" width="40" alt="OpenAI" title="OpenAI API"/>
   
